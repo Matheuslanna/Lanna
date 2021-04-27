@@ -1,1 +1,1 @@
-# R Projects
+# Projetos utilizando a linguagem R
